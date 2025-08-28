@@ -44,3 +44,7 @@ This project focuses on building an automated system to detect malpractice durin
 * Language: Python
 * Libraries: PyTorch, Torchvision, NumPy, Matplotlib, scikit-learn, PIL
 * Frameworks: Deep Learning (CNNs)
+
+
+Dataset used:
+https://drive.google.com/drive/folders/15CNA883uqVzXB2D7GBol1P4MKBSpu58u?usp=sharing
