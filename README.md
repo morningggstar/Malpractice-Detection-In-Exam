@@ -13,7 +13,7 @@ This project focuses on building an automated system to detect malpractice durin
 * The dataset consists of images categorized into multiple classes (e.g., cheating vs. non-cheating).
 * Organized into train, validation, and test sets.
 * Custom PyTorch Dataset class is used for efficient loading and preprocessing.
-* 
+  
 
 ## Methodology
 
@@ -35,9 +35,9 @@ This project focuses on building an automated system to detect malpractice durin
 
 ## Results
 
-*Achieved promising accuracy in detecting exam malpractice.
-*Visualized training performance with accuracy/loss plots.
-*Provides a foundation for developing a real-time surveillance system.
+* Achieved promising accuracy in detecting exam malpractice.
+* Visualized training performance with accuracy/loss plots.
+* Provides a foundation for developing a real-time surveillance system.
 
 ## Tech Stack
 
