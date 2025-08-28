@@ -1,0 +1,14 @@
+timestamp,face_id,face_detected,phone_detected,head_pose,predicted_action,alert
+2025-06-26 13:22:33,1,True,True,Looking Right,cheating,ALERT: Phone Detected
+2025-06-26 13:22:39,1,True,False,Looking Right,looking friend,ALERT: Looking Right for 5sec
+2025-06-26 13:22:44,1,True,False,Looking Forward,normal act,
+2025-06-26 13:22:50,1,True,False,Looking Forward,normal act,
+2025-06-26 13:23:06,1,True,False,Looking Forward,normal act,
+2025-06-26 13:23:11,1,True,False,Looking Forward,normal act,
+2025-06-26 13:23:16,1,True,False,Looking Right,normal act,
+2025-06-26 13:23:22,1,True,False,Looking Right,looking friend,ALERT: Looking Right for 5s
+2025-06-26 13:29:57,1,True,False,Looking Forward,giving object,
+2025-06-26 13:30:03,1,True,False,Looking Right,normal act,
+2025-06-26 13:30:08,1,True,False,Looking Left,normal act,
+2025-06-26 13:30:13,1,True,False,Looking Left,looking friend,ALERT: Looking Left for 5s
+2025-06-26 13:30:18,1,True,True,Looking Forward,cheating,Phone Detected
